@@ -1,8 +1,8 @@
 import speech_recognition as sr
 
-def getText():
+def getText(text):
 
-    AUDIO_FILE = "sound.wav"
+    AUDIO_FILE = text
 
     # use the audio file as the audio source
     r = sr.Recognizer()
