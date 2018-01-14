@@ -3,3 +3,4 @@ chardet==3.0.3
 Jinja2==2.9.6
 requests==2.14.2
 gunicorn==19.7.1
+werkzeug==0.14.1
