@@ -1,7 +1,8 @@
-import soundfile as sf
 
+import pydub.audio_segment
 
 def getSoundLength():
-    f = sf.SoundFile('test.wav')
-    return(len(f) / f.samplerate)
+    from pydub import AudioSegment
 
+    song = AudioSegment.from_wav("test.wav")
+    return(song.duration_seconds)
