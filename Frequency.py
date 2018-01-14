@@ -1,9 +1,14 @@
-import numpy as np
 import matplotlib.pyplot as plt
-import scipy.io.wavfile as wave
+from scipy.io import wavfile as wav
+from scipy.fftpack import fft
+import numpy as np
+rate, data = wav.read('sound3.wav')
 
-rate,data = wave.read('sound5.wav')
-spectre = np.fft.fft(data)
-freq = np.fft.fftfreq(data.size, 1/rate)
-mask=freq>0
-plt.plot(freq[mask],np.abs(spectre[mask]))
+
+for amp in (data / MAX_WAV16_AMP):
+        print amp
+
+fft_out = fft(data)
+
+plt.plot(data, np.abs(fft_out))
+plt.show()

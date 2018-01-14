@@ -2,356 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78d4e9ce-c4e1-4c38-b294-c38354b77a1b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/AUTHORS" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/CMake/autogen.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/CMake/build.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/CMake/check.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/CMake/compiler_is_gcc.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/CMake/external_libs.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/CMake/file.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/CMake/have_decl_s_irgrp.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/CMake/libsndfile.cmake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/CMakeLists.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/COPYING" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/Cfg/ar-lib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/Cfg/compile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/Cfg/config.guess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/Cfg/config.sub" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/Cfg/depcomp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/Cfg/install-sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/Cfg/ltmain.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/Cfg/missing" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/ChangeLog" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/INSTALL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/M4/Makefile.am" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/M4/Makefile.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/M4/add_cflags.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/M4/add_cxxflags.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/M4/ax_add_fortify_source.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/M4/clang.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/M4/clip_mode.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/M4/endian.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/M4/extra_pkg.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/M4/flexible_array.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/M4/gcc_version.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/M4/libtool.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/M4/llrint.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/M4/lrint.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/M4/lrintf.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/M4/ltoptions.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/M4/ltsugar.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/M4/ltversion.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/M4/lt~obsolete.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/M4/mkoctfile_version.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/M4/octave.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/M4/really_gcc.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/M4/stack_protect.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/M4/visibility.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/Makefile.am" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/Makefile.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/NEWS" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/Octave/Makefile.am" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/Octave/Makefile.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/Octave/PKG_ADD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/Octave/octave_test.m" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/Octave/octave_test.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/Octave/sndfile.cc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/Octave/sndfile_load.m" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/Octave/sndfile_play.m" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/Octave/sndfile_save.m" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/Scripts/android-configure.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/Scripts/build-test-tarball.mk.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/Scripts/linux-to-win-cross-configure.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/Win32/Makefile.am" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/Win32/Makefile.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/Win32/README-precompiled-dll.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/Win32/testprog.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/aclocal.m4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/configure" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/configure.ac" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/doc/AUTHORS" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/doc/ChangeLog" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/doc/FAQ.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/doc/Makefile.am" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/doc/Makefile.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/doc/NEWS" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/doc/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/doc/api.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/doc/bugs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/doc/command.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/doc/embedded_files.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/doc/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/doc/libsndfile.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/doc/libsndfile.css.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/doc/libsndfile.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/doc/lists.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/doc/new_file_type.HOWTO" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/doc/octave.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/doc/sndfile_info.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/doc/tutorial.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/doc/win32.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/echo-install-dirs.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/examples/Makefile.am" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/examples/Makefile.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/examples/generate.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/examples/list_formats.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/examples/make_sine.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/examples/sfprocess.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/examples/sndfile-loopify.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/examples/sndfile-to-text.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/examples/sndfilehandle.cc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/libsndfile.spec.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/man/Makefile.am" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/man/Makefile.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/man/sndfile-cmp.1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/man/sndfile-concat.1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/man/sndfile-convert.1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/man/sndfile-info.1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/man/sndfile-interleave.1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/man/sndfile-metadata-get.1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/man/sndfile-play.1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/man/sndfile-salvage.1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/programs/Makefile.am" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/programs/Makefile.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/programs/common.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/programs/common.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/programs/sndfile-cmp.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/programs/sndfile-concat.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/programs/sndfile-convert.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/programs/sndfile-deinterleave.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/programs/sndfile-info.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/programs/sndfile-interleave.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/programs/sndfile-metadata-get.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/programs/sndfile-metadata-set.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/programs/sndfile-play-beos.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/programs/sndfile-play.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/programs/sndfile-salvage.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/programs/test-sndfile-metadata-set.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/regtest/Makefile.am" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/regtest/Makefile.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/regtest/checksum.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/regtest/database.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/regtest/regtest.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/regtest/sndfile-regtest.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/sndfile.pc.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ALAC/ALACAudioTypes.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ALAC/ALACBitUtilities.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ALAC/ALACBitUtilities.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ALAC/EndianPortable.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ALAC/ag_dec.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ALAC/ag_enc.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ALAC/aglib.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ALAC/alac_codec.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ALAC/alac_decoder.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ALAC/alac_encoder.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ALAC/dp_dec.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ALAC/dp_enc.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ALAC/dplib.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ALAC/matrix_dec.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ALAC/matrix_enc.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ALAC/matrixlib.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ALAC/shift.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/G72x/ChangeLog" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/G72x/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/G72x/README.original" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/G72x/g721.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/G72x/g723_16.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/G72x/g723_24.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/G72x/g723_40.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/G72x/g72x.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/G72x/g72x.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/G72x/g72x_priv.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/G72x/g72x_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/GSM610/COPYRIGHT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/GSM610/ChangeLog" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/GSM610/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/GSM610/add.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/GSM610/code.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/GSM610/config.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/GSM610/decode.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/GSM610/gsm.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/GSM610/gsm610_priv.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/GSM610/gsm_create.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/GSM610/gsm_decode.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/GSM610/gsm_destroy.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/GSM610/gsm_encode.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/GSM610/gsm_option.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/GSM610/long_term.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/GSM610/lpc.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/GSM610/preprocess.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/GSM610/rpe.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/GSM610/short_term.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/GSM610/table.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/Makefile.am" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/Makefile.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/Symbols.darwin" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/Symbols.gnu-binutils" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/Symbols.os2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/Symbols.static" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/aiff.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/alac.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/alaw.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/au.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/audio_detect.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/avr.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/binheader_writef_check.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/broadcast.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/caf.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/cart.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/chanmap.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/chanmap.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/chunk.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/command.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/common.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/common.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/config.h.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/create_symbols_file.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/dither.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/double64.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/dwd.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/dwvw.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/file_io.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/flac.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/float32.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/g72x.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/gsm610.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/htk.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/id3.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ima_adpcm.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ima_oki_adpcm.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ima_oki_adpcm.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/interleave.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ircam.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/libsndfile-1.def" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/macos.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/make-static-lib-hidden-privates.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/mat4.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/mat5.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/mpc2k.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ms_adpcm.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/nist.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ogg.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ogg.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ogg_opus.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ogg_pcm.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ogg_speex.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ogg_vorbis.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/paf.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/pcm.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/pvf.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/raw.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/rf64.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/rx2.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/sd2.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/sds.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/sf_unistd.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/sfconfig.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/sfendian.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/sndfile.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/sndfile.h.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/sndfile.hh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/strings.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/svx.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/test_audio_detect.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/test_binheader_writef.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/test_broadcast_var.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/test_cart_var.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/test_conversions.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/test_endswap.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/test_endswap.def" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/test_endswap.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/test_file_io.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/test_float.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/test_ima_oki_adpcm.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/test_log_printf.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/test_main.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/test_main.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/test_strncpy_crlf.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/txw.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/ulaw.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/version-metadata.rc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/version-metadata.rc.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/voc.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/vox_adpcm.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/w64.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/wav.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/wavlike.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/wavlike.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/windows.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/wve.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/src/xi.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/Makefile.am" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/Makefile.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/aiff_rw_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/alaw_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/benchmark.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/benchmark.def" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/benchmark.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/channel_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/checksum_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/chunk_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/command_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/compression_size_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/cpp_test.cc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/dft_cmp.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/dft_cmp.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/dither_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/dwvw_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/error_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/external_libs_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/fix_this.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/floating_point_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/floating_point_test.def" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/floating_point_test.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/format_check_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/generate.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/generate.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/header_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/header_test.def" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/header_test.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/headerless_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/largefile_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/locale_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/long_read_write_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/lossy_comp_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/misc_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/multi_file_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/ogg_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/pcm_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/pcm_test.def" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/pcm_test.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/peak_chunk_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/pedantic-header-test.sh.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/pipe_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/pipe_test.def" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/pipe_test.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/raw_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/rdwr_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/rdwr_test.def" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/rdwr_test.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/scale_clip_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/scale_clip_test.def" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/scale_clip_test.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/sfversion.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/stdin_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/stdio_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/stdout_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/string_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/test_wrapper.sh.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/ulaw_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/utils.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/utils.def" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/utils.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/utils.tpl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/virtual_io_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/win32_ordinal_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/win32_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/write_read_test.c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/write_read_test.def" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/libsndfile/tests/write_read_test.tpl" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/getLoudness.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AudioVisualization.py" afterPath="$PROJECT_DIR$/AudioVisualization.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Frequency.py" afterPath="$PROJECT_DIR$/Frequency.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpeechAI.py" afterPath="$PROJECT_DIR$/SpeechAI.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/getTimeLength.py" afterPath="$PROJECT_DIR$/getTimeLength.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wordsPerMinute.py" afterPath="$PROJECT_DIR$/wordsPerMinute.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -365,12 +22,13 @@
     <SUITE FILE_PATH="coverage/SpeechAI_Server$findSilences.coverage" NAME="findSilences Coverage Results" MODIFIED="1515909193055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SpeechAI_Server$ConvertWAV.coverage" NAME="ConvertWAV Coverage Results" MODIFIED="1515906650886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SpeechAI_Server$SpeechAI_Server.coverage" NAME="SpeechAI-Server Coverage Results" MODIFIED="1515909201282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/SpeechAI_Server$Frequency.coverage" NAME="Frequency Coverage Results" MODIFIED="1515900911335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SpeechAI_Server$getLoudness.coverage" NAME="getLoudness Coverage Results" MODIFIED="1515918041022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SpeechAI_Server$Frequency.coverage" NAME="Frequency Coverage Results" MODIFIED="1515916763171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SpeechAI_Server$Test.coverage" NAME="Test Coverage Results" MODIFIED="1515893229657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/SpeechAI_Server$AudioVisualization.coverage" NAME="AudioVisualization Coverage Results" MODIFIED="1515902249241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SpeechAI_Server$AudioVisualization.coverage" NAME="AudioVisualization Coverage Results" MODIFIED="1515914815585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SpeechAI_Server$AudioBreaks.coverage" NAME="AudioBreaks Coverage Results" MODIFIED="1515896928488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/SpeechAI_Server$getTimeLength.coverage" NAME="getTimeLength Coverage Results" MODIFIED="1515898028999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/SpeechAI_Server$wordsPerMinute.coverage" NAME="wordsPerMinute Coverage Results" MODIFIED="1515898882154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SpeechAI_Server$getTimeLength.coverage" NAME="getTimeLength Coverage Results" MODIFIED="1515917570281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DockManager">
     <window id="1">
@@ -397,8 +55,8 @@
       <file leaf-file-name="SpeechAI.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SpeechAI.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+            <state relative-caret-position="140">
+              <caret line="42" column="56" lean-forward="true" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="56" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -416,16 +74,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Procfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Procfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="findSilences.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/findSilences.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -438,11 +86,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="getTimeLength.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="getTimeLength.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/getTimeLength.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getLoudness.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/getLoudness.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -451,8 +111,8 @@
       <file leaf-file-name="wordsPerMinute.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wordsPerMinute.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="45">
+              <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -463,8 +123,8 @@
       <file leaf-file-name="speechToText.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/speechToText.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+            <state relative-caret-position="224">
+              <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -473,8 +133,8 @@
       <file leaf-file-name="AudioVisualization.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AudioVisualization.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="137">
+              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -485,9 +145,11 @@
       <file leaf-file-name="Frequency.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Frequency.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-              <folding />
+            <state relative-caret-position="105">
+              <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -519,15 +181,16 @@
         <option value="$PROJECT_DIR$/AudioBreaks.py" />
         <option value="$PROJECT_DIR$/SpeechToText.py" />
         <option value="$PROJECT_DIR$/diffChecker.py" />
-        <option value="$PROJECT_DIR$/Frequency.py" />
-        <option value="$PROJECT_DIR$/AudioVisualization.py" />
         <option value="$PROJECT_DIR$/ConvertWAV.py" />
         <option value="$PROJECT_DIR$/speechToText.py" />
-        <option value="$PROJECT_DIR$/wordsPerMinute.py" />
         <option value="$PROJECT_DIR$/findSilences.py" />
-        <option value="$PROJECT_DIR$/SpeechAI.py" />
-        <option value="$PROJECT_DIR$/getTimeLength.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/wordsPerMinute.py" />
+        <option value="$PROJECT_DIR$/AudioVisualization.py" />
+        <option value="$PROJECT_DIR$/Frequency.py" />
+        <option value="$PROJECT_DIR$/getTimeLength.py" />
+        <option value="$PROJECT_DIR$/SpeechAI.py" />
+        <option value="$PROJECT_DIR$/getLoudness.py" />
       </list>
     </option>
   </component>
@@ -577,6 +240,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -589,7 +257,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SpeechAI-Server">
+  <component name="RunManager" selected="Python.getLoudness">
     <configuration name="AudioVisualization" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -604,24 +272,6 @@
       <module name="SpeechAI-Server" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AudioVisualization.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="ConvertWAV" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="SpeechAI-Server" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ConvertWAV.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -680,7 +330,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="wordsPerMinute" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="getLoudness" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -693,7 +343,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SpeechAI-Server" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wordsPerMinute.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getLoudness.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="getTimeLength" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SpeechAI-Server" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getTimeLength.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -701,18 +369,18 @@
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.SpeechAI-Server" />
       <item index="1" class="java.lang.String" itemvalue="Python.AudioVisualization" />
-      <item index="2" class="java.lang.String" itemvalue="Python.wordsPerMinute" />
-      <item index="3" class="java.lang.String" itemvalue="Python.findSilences" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Frequency" />
-      <item index="5" class="java.lang.String" itemvalue="Python.ConvertWAV" />
+      <item index="2" class="java.lang.String" itemvalue="Python.findSilences" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Frequency" />
+      <item index="4" class="java.lang.String" itemvalue="Python.getTimeLength" />
+      <item index="5" class="java.lang.String" itemvalue="Python.getLoudness" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.findSilences" />
-        <item index="1" class="java.lang.String" itemvalue="Python.ConvertWAV" />
-        <item index="2" class="java.lang.String" itemvalue="Python.AudioVisualization" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Frequency" />
-        <item index="4" class="java.lang.String" itemvalue="Python.wordsPerMinute" />
+        <item index="0" class="java.lang.String" itemvalue="Python.getLoudness" />
+        <item index="1" class="java.lang.String" itemvalue="Python.getTimeLength" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Frequency" />
+        <item index="3" class="java.lang.String" itemvalue="Python.AudioVisualization" />
+        <item index="4" class="java.lang.String" itemvalue="Python.findSilences" />
       </list>
     </recent_temporary>
   </component>
@@ -734,12 +402,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="700" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22174536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22174536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289256" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289256" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289256" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -839,10 +508,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wordsPerMinute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/speechToText.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AudioVisualization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frequency.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getTimeLength.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SpeechAI.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        <state relative-caret-position="140">
+          <caret line="42" column="56" lean-forward="true" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="56" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
@@ -857,42 +582,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wordsPerMinute.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/speechToText.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AudioVisualization.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Frequency.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/findSilences.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -903,18 +592,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/getTimeLength.py">
+    <entry file="file://$PROJECT_DIR$/getLoudness.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>

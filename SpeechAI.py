@@ -3,6 +3,7 @@ from flask import request
 from speechToText import getText
 from diffChecker import similar
 from wordsPerMinute import getWordsPerMinute
+from getLoudness import getSoundLoudness
 from firebase import firebase
 import urllib.request
 from findSilences import findSilences
@@ -36,14 +37,15 @@ def getAudio():
     with open(file_name, "wb") as f:
        f.write(rsp.read())
 
-    recordedText = getText("test.wav")
+    recordedText = getText(file_name)
 
     pausing = findSilences(recordedText)
-    similarity = similar(actualText, getText("test.wav"))
+    similarity = similar(actualText, getText(file_name))
     wpm = getWordsPerMinute(recordedText)
+    loudness = getSoundLoudness(file_name)
     print(wpm)
 
-    data = {'wpm':wpm, 'similarity':similarity, 'pausing':pausing}
+    data = {'wpm':wpm, 'similarity':similarity, 'pausing':pausing, 'loudness':loudness}
     return json.dumps(data)
 
 
