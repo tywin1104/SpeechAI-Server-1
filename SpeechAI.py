@@ -66,18 +66,13 @@ def getAudio():
         p = True
         if pausing == 'slow' or pausing == 'fast':
             p = False
-        elif pausing == lastData['pausing']:
-            p = 'same'
-
         l = True
-        if lastData['loudness'] == loudness:
-            l = 'same'
-        elif lastData['loudness'] == 'loud' and loudness=='quiet':
+        if lastData['loudness'] == 'loud' and loudness=='quiet':
             l = False
 
         pastData = {'wpm': (wpm > lastData['wpm']), 'similarity': (similarity > lastData['similarity']), 'pausing':p, 'loudness':l}
     else:
-        pastData = {'wpm': 'pass', 'similarity': 'pass', 'pausing': 'pass', 'loudness':'pass'}
+        pastData = {'wpm': False, 'similarity': False, 'pausing': False, 'loudness':False}
     currentData = {'wpm': wpm, 'similarity': similarity, 'pausing': pausing, 'loudness': loudness}
     scorePastData = {'score':score, 'pastData':pastData}
     data = {**currentData, **scorePastData}

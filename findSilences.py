@@ -14,9 +14,9 @@ def findSilences(recordedText):
     print(det)
 
     if (len(det) <= (count + 2)) & (len(det) >= (count - 2)):
-        return 'Good'
+        return 'good'
     elif (len(det) < (count - 2)):
-        return 'Fast'
+        return 'fast'
     else:
-        return 'Slow'
+        return 'slow'
 
