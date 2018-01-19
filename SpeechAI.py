@@ -41,26 +41,49 @@ def getAudio():
 
     recordedText = getText(file_name)
 
-    pausing = findSilences(recordedText)
+    #Pausing Data
+    pausingData = findSilences(recordedText)
+    pausing, pausingVal = pausingData[0], pausingData[1]
+
+    #Similarity Data
     similarity = similar(actualText, getText(file_name))
+
+    #WPM Data
     wpm = int(getWordsPerMinute(recordedText))
-    loudness = getSoundLoudness(file_name)
+
+    #Loudness Data
+    loudnessData = getSoundLoudness(file_name)
+    loudness,loudVal = loudnessData[0], loudnessData[1]
+
     print(wpm)
 
     score = 0.0
+
+    # WPM Calculation
     if wpm >= 120 and wpm <= 170:
         score += .25
+    elif wpm < 120:
+        diff = 120-wpm
+        score += (diff/120) * 0.25
     else:
-        score += randint(10,15)/100
+        diff = abs(120 - (wpm-170))
+        score += (diff/120) * 0.25
+
+    # Similarity Calculation
     score += similarity * .25
+
+    # Pausing Calculation
     if pausing == 'good':
         score += .25
     else:
-        score += randint(10,15)/100
-    if loudness == 'quiet':
-        score += randint(10,15)/100
-    else:
+        score += .25 * (pausingVal)
+
+    # Loudness Calculation
+    if loudness == 'good':
         score += .25
+    else:
+        diff = 18.5-abs(loudVal)
+        score += .25 * (diff/18.5)
 
     if lastData['wpm'] != 'pass':
         p = True
@@ -75,9 +98,11 @@ def getAudio():
         pastData = {'wpm': False, 'similarity': False, 'pausing': False, 'loudness':False}
     currentData = {'wpm': wpm, 'similarity': similarity, 'pausing': pausing, 'loudness': loudness}
     scorePastData = {'score':score, 'pastData':pastData}
+    allData = {**currentData, **{'score':score}}
     data = {**currentData, **scorePastData}
 
     result = firebase.put('/users/'+userID, 'lastData', currentData)
+    speechData = firebase.put('/users/'+userID+'/speeches/'+recordingID, 'data',allData)
 
     return json.dumps(data)
 

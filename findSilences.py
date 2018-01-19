@@ -11,12 +11,17 @@ def findSilences(recordedText):
         # consider it silent if quieter than -16 dBFS
         silence_thresh=sound_file.dBFS)
 
-    print(det)
+    detCount = len(det)
+    diff = 0
+    if detCount < (count-2):
+        diff = (detCount/(count-2))
+    elif detCount > (count+2):
+        diff = abs((count-2) - ((count+2)-detCount))
 
     if (len(det) <= (count + 2)) & (len(det) >= (count - 2)):
-        return 'good'
+        return ['good',diff]
     elif (len(det) < (count - 2)):
-        return 'fast'
+        return ['fast',diff]
     else:
-        return 'slow'
+        return ['slow',diff]
 
